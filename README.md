@@ -1,5 +1,5 @@
 
-### &nbsp;Hey coders!! ☀️
+### Hey coders!! ☀️
 
 Let me resume a bit of myself:
 - 📚 I've finished a Web Development Bootcamp at Le Wagon Brasil
@@ -8,7 +8,19 @@ Let me resume a bit of myself:
 - 👯 I’m looking to collaborate on anything! So open to code and learn
 - 💬 Ask me about Ruby On Rails - I might be able to help you with something
 - 📫 Reach me on my email: danirioscampelo@gmail.com
-- ⚡ Fun fact: I never thought I would be coding until I did it the 1st time and got addicted 
+- ⚡ Fun fact: I never thought I would be coding until I did it the 1st time and got addicted
+
+</br>
+
+### 👀 &nbsp;Check my Projects
+
+Rethink Your Trash:
+https://rethink-your-trash.herokuapp.com/
+
+Take My Book:
+https://take-my-book-app.herokuapp.com/
+
+</br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,7 +32,10 @@ Let me resume a bit of myself:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
+</br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
