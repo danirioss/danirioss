@@ -17,7 +17,7 @@ Portfolio:
 https://danirioss.github.io/profile/ - ALWAYS IN PROGRESS 😅
 
 Centro de Infusão e Neuromodulação em Psiquiatria:
-https://www.cinpgo.com.br/
+https://www.cinpgo.com.br/ 
 
 Rethink Your Trash:
 https://rethink-your-trash.herokuapp.com/
