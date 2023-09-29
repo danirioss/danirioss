@@ -13,14 +13,17 @@ Let me resume a bit of myself:
 
 ### 👀 &nbsp;Check my Projects
 
+Portfolio:
+https://danirioss.github.io/profile/ - ALWAYS IN PROGRESS 😅
+
+Centro de Infusão e Neuromodulação em Psiquiatria:
+https://www.cinpgo.com.br/
+
 Rethink Your Trash:
 https://rethink-your-trash.herokuapp.com/
 
 Take My Book:
 https://take-my-book-app.herokuapp.com/
-
-Portfolio:
-https://danirioss.github.io/profile/ - STILL IN PROGRESS 🙌 
 
 </br>
 
